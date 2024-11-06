@@ -1,9 +1,9 @@
 @import url("styles/header.css");
 
 :root {
-    --azul: #4f7bd1;
+    --cor-de-fundo: white;
     --amarelo: #ffe600;
-    --roxo: #d3159a;
+    --roxo: #a00c74;
     --azul-degrade: linear-gradient(97.54deg, #f181c6 35.49%, #3fdd86 165.37%);
     --fonte-principal: "Poppins";
 }
@@ -11,6 +11,6 @@
 body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
-    font-size: 18px;
-    font-weight: 380;
+    font-size: 16px;
+    font-weight: 400;
 }
